@@ -1,0 +1,17 @@
+[
+  {
+    "product": "macaroni",
+    "price": 10.0,
+    "discounted": 9.0
+  },
+  {
+    "product": "high",
+    "price": 20.0,
+    "discounted": 18.0
+  },
+  {
+    "product": "tea",
+    "price": 30.0,
+    "discounted": 27.0
+  }
+]
